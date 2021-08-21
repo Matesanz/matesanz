@@ -1,11 +1,15 @@
 ### Hi there 👋
 
+I'm a Computer Vision Developer who tries to make computers see. And I really enjoy it! 😄 I give talks about Artificial Intelligence and I'm really interested in robotics 🦾 I also like board games, doing sports, playing guitar or just being with my friends. :v:
+
+- 🔭 I’m currently working on ROS and Artificial Intelligence
+
 <!--
 **Matesanz/matesanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
