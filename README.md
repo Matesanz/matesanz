@@ -1,7 +1,5 @@
 ### Hi there 👋 ![twitter](https://img.shields.io/twitter/follow/aimatesanz?style=social&logo=twitter)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=matesanz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=303030&include_all_commits=true)
-
 I'm a **Computer Vision Developer** who tries to make computers see. And I really enjoy it! 😄 I give talks about **Artificial Intelligence** and I'm really interested in **robotics** 🦾 I also like board games, doing sports, playing guitar or just being with my friends. :v:
 
 - 👷 I'm currently working using **Computer Vision** (classic and deep learning applied)
